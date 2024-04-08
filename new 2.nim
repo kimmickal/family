@@ -5,9 +5,9 @@ CREATE TABLE family (
 );
 
 INSERT INTO family (id, name, age);
-VALUES (1, 'Randy Kimmick' , 71);
+VALUES (1, 'Randy Kimmick' , 73);
 INSERT INTO family (id, name, age);
-VALUES (2, 'Laura Kimmick', 58);
+VALUES (2, 'Laura Kimmick', 60);
 INSERT INTO family (id, name, age);
-VALUES (3, 'Kobe Kimmick', 20);
+VALUES (3, 'Kobe Kimmick', 22);
 
